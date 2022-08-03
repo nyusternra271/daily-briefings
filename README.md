@@ -47,6 +47,13 @@ SENDER_EMAIL_ADDRESS="_______________"
 
 ## Usage
 
+
+To run the web app:
+
+```sh
+FLASK_APP=web_app flask run
+```
+
 Printing today's weather forecast (to test the Weather.gov API):
 
 ```sh
